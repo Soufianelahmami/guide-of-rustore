@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkedG.webp",
+            "title": "guide of rustore 1",
+            "text_Content_": "Create a template or starter project that integrates Rust code within an Android app. This could involve building a simple app with a mix of Rust and Java/Kotlin code."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkNgs.webp",
+            "title": "guide of rustore 2",
+            "text_Content_": "Develop a utility app for Android that leverages Rust for performance-critical tasks. This could be image processing, data encryption, or any computation-intensive operation."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkw1n.webp",
+            "title": "guide of rustore 3",
+            "text_Content_": "Build an Android app that communicates with IoT devices using Rust. This project could involve developing Rust firmware for an IoT device and creating an Android app for control and monitoring."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkjqX.webp",
+            "title": "guide of rustore 4",
+            "text_Content_": "Create a game for Android using Rust for the game engine or performance-critical parts. This could be a simple 2D game or a more complex 3D game depending on your skills and interests."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkVzN.webp",
+            "title": "guide of rustore 5",
+            "text_Content_": "Explore cross-platform development by using Rust for the core logic and having a shared codebase between Android and other platforms (like iOS or desktop). This can be achieved with frameworks like rust-mobile"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkXst.webp",
+            "title": "guide of rustore 6",
+            "text_Content_": "Before diving into Android development with Rust, make sure you have a solid understanding of the Rust programming language. There are many online resources, tutorials, and documentation available to help you get started with Rust."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkGbp.webp",
+            "title": "guide of rustore 7",
+            "text_Content_": "Identify areas in your Android app where performance is crucial and implement those parts in Rust. Rust's emphasis on memory safety and performance makes it well-suited for such tasks."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JFMkWXI.webp",
+            "title": "guide of rustore 8",
+            "text_Content_": "Check out existing Rust libraries and frameworks that are compatible with Android development. Libraries like jni can be useful for interacting with Java code from Rust."
         }
     ]
 }
